@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="text1">Something interesting information and dynamic shortcuts combined) at a time for your app. Some launcher apps, however, don\'t show every static and dynamic shortcut you\'ve created for your app.</string>
+    <string name="text2">There is no limit to the number of pinned app that users can create.</string>
+    <string name="text3">Static shortcuts should provide links should remain consistent over the lifetime of your app\'s current version.</string>
+</resources>
